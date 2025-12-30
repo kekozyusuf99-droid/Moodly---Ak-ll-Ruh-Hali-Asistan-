@@ -1,0 +1,7 @@
+{
+  "name": "Moodly - Akıllı Ruh Hali Asistanı",
+  "description": "Günlük ruh halinizi takip edin, notlar alın ve AI destekli analizlerle duygusal sağlığınızı yönetin. Modern, renkli ve kullanımı kolay bir Mood Tracker.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
